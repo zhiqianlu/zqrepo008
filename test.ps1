@@ -1,0 +1,1 @@
+Set-ItemProperty -Path Registry::"HKLM\SOFTWARE\FSLogix\Profiles" -Name Enabled -value 1
